@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "6626d3b15ecb586a9ff9b629"
+  },
+  "name": "Provident elit nis",
+  "email": "dogimyze@mailinator.com",
+  "password": "Pa$$w0rd!",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-04-22T21:16:33.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T21:16:33.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ac1091cd803e4fdd547c2"
+  },
+  "name": "Nihil quo in nostrum",
+  "email": "hosaludoh@mailinator.com",
+  "password": "Pa$$w0rd!",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-25T20:46:01.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T20:46:01.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b7fec84813293d9baf5f8"
+  },
+  "name": "Debitis temporibus c",
+  "email": "hudefy@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:20:28.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:20:28.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b810084813293d9baf607"
+  },
+  "name": "Velit velit alias q",
+  "email": "pofazoha@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:25:04.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:25:04.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b82c284813293d9baf61b"
+  },
+  "name": "Id nulla at volupta",
+  "email": "xohabixego@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:32:34.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:32:34.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b837a84813293d9baf624"
+  },
+  "name": "Officiis velit sint",
+  "email": "sotatemewu@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:35:38.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:35:38.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b83e184813293d9baf634"
+  },
+  "name": "Quis qui ea nostrud ",
+  "email": "fepi@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:37:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:37:21.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b845884813293d9baf64c"
+  },
+  "name": "Quia ut ut voluptas ",
+  "email": "polup@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T10:39:20.469Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T10:39:20.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662bdf1e06c76014a83290db"
+  },
+  "name": "Laudantium amet au",
+  "email": "mizu@mailinator.com",
+  "password": "1234",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-04-26T17:06:38.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-26T17:06:38.767Z"
+  },
+  "__v": 0
+}]

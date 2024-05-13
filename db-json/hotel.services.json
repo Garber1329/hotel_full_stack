@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "662ac92d74ad4fd6f2b8786b"
+  },
+  "name": "Horse Riding",
+  "description": "Gallop through the gorgeous greenery of one of Catalonia's most majestic natural parks on a half-day horse-riding tour from Barcelona.",
+  "capacity": "5",
+  "price": 200,
+  "imageurl": "https://images.pexels.com/photos/1559388/pexels-photo-1559388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "createdAt": {
+    "$date": "2024-04-25T21:20:45.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T21:20:45.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ac96e74ad4fd6f2b87870"
+  },
+  "name": "Surf classes",
+  "description": "Learn the basics of surfing in our incredible bay. For only $25 per hour you will have such a great time in family and will learn a fun activity.",
+  "capacity": "5",
+  "price": 25,
+  "imageurl": "https://images.pexels.com/photos/4321800/pexels-photo-4321800.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "createdAt": {
+    "$date": "2024-04-25T21:21:50.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T21:21:50.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ac9a874ad4fd6f2b87874"
+  },
+  "name": "Special dinner",
+  "description": "In Los Cocos Bungalows we know how to make a special day bright and unforgetable. Enjoy a dinner for 2 in our lovely Greeny Restaurant for an additional $45 per couple.",
+  "capacity": "5",
+  "price": 45,
+  "imageurl": "https://images.pexels.com/photos/21753113/pexels-photo-21753113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "createdAt": {
+    "$date": "2024-04-25T21:22:48.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T21:22:48.552Z"
+  },
+  "__v": 0
+}]

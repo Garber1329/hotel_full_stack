@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6626d0de0f73d5edcaf1c245"
+  },
+  "name": "Luxury Suite",
+  "maxcount": 4,
+  "phonenumber": 1234567890,
+  "rentperday": 200,
+  "imageurls": [
+    "https://imgur.com/gBiLsna.jpg",
+    "https://imgur.com/jgPllna.jpg",
+    "https://imgur.com/cY42npG.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Delux",
+  "description": "Spacious and luxurious suite with all the amenities you need for a comfortable stay."
+},
+{
+  "_id": {
+    "$oid": "6626d0de0f73d5edcaf1c248"
+  },
+  "name": "Studio Apartment",
+  "maxcount": 3,
+  "phonenumber": 1234567890,
+  "rentperday": 170,
+  "imageurls": [
+    "https://imgur.com/UxEqI6f.jpg",
+    "https://imgur.com/bLoh5Xw.jpg",
+    "https://imgur.com/JMK532T.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Delux",
+  "description": "Self-contained studio apartment with a kitchenette and living area."
+},
+{
+  "_id": {
+    "$oid": "6626d0de0f73d5edcaf1c246"
+  },
+  "name": "Double Room",
+  "maxcount": 2,
+  "phonenumber": 1234567890,
+  "rentperday": 150,
+  "imageurls": [
+    "https://imgur.com/wqx6NCc.jpg",
+    "https://imgur.com/vuTUUsF.jpg",
+    "https://imgur.com/1SRGSCH.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Delux",
+  "description": "Cozy and comfortable room for two guests."
+},
+{
+  "_id": {
+    "$oid": "6626d0de0f73d5edcaf1c247"
+  },
+  "name": "Family Room",
+  "maxcount": 5,
+  "phonenumber": 1234567890,
+  "rentperday": 180,
+  "imageurls": [
+    "https://imgur.com/pfEtsSk.jpg",
+    "https://imgur.com/iZgxXfG.jpg",
+    "https://imgur.com/ArLt03s.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Non-Delux",
+  "description": "Spacious room perfect for families or groups of friends."
+},
+{
+  "_id": {
+    "$oid": "6626d0de0f73d5edcaf1c249"
+  },
+  "name": "Budget Room",
+  "maxcount": 1,
+  "phonenumber": 1234567890,
+  "rentperday": 100,
+  "imageurls": [
+    "https://imgur.com/g5lxYwi.jpg",
+    "https://imgur.com/n1YGQcJ.jpg",
+    "https://imgur.com/wP2qra8.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Non-Delux",
+  "description": "Basic but affordable room for a single traveler."
+},
+{
+  "_id": {
+    "$oid": "6628f4fdbbccae657121db60"
+  },
+  "name": "Modern room",
+  "maxcount": 6,
+  "phonenumber": 1234567890,
+  "rentperday": 1000,
+  "imageurls": [
+    "https://imgur.com/O9OFPV4.jpg",
+    "https://imgur.com/CmB0FZj.jpg",
+    "https://imgur.com/B7SS6S5.jpg"
+  ],
+  "currentbookings": [],
+  "type": "Delux",
+  "description": "New amazing modern room ",
+  "createdAt": {
+    "$date": "2024-04-24T12:03:09.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-24T12:03:09.315Z"
+  },
+  "__v": 0
+}]
